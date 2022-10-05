@@ -1,0 +1,18 @@
+.iptSearch {
+    width: 200px;
+    height: 25px;
+    margin-right: 20px; 
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.btnSearch {
+    background-color: rgb(255, 81, 0);
+    border-radius: 50px;
+    border: 1px solid #ddd;
+    font-size: 20px;
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+}
+
